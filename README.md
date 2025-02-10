@@ -5,7 +5,7 @@ Welcome to our channel, ML2LM. This repository will provide you the codes for th
 ## Topics.
     
 ### 1. Python Basics 
-#### 1.1 Data types and Operators. [Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/data_types_and_operators.ipynb)
+#### 1.1 Data types and Operators. ([Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/data_types_and_operators.ipynb))
         *Visit python_basic/data_types_and_operators.ipynb for codes.*
         ``` What Are Data Types? <br>
                 Data types define the kind of value a variable can hold in a programming language. In Python, every piece of data (like numbers, text or a collection of items) has a specific data type that tells Python how to process and store that data. <br>
