@@ -1,6 +1,6 @@
 # ML2LM
 
-Welcome to our channel, ML2LM. This repository will provide you the codes for the topics that we discuss on our youtube channel. We will sequentially update this repository based on the topics that we cover.
+Welcome to our channel, ML2LM. This repository will provide you the codes for the topics that we discuss on our youtube channel. We will sequentially update this repository based on the topics that we cover. We will cover all the topics both in Bengali and English medium. 
 
 ## Topics.
     
