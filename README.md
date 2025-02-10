@@ -4,7 +4,7 @@ Welcome to our channel, ML2LM. This repository will provide you the codes for th
 
 Topics.
     
-    - Python Basics - Data types and Operators.
+### Python Basics - Data types and Operators.
         ``` What Are Data Types? <br>
                 Data types define the kind of value a variable can hold in a programming language. In Python, every piece of data (like numbers, text or a collection of items) has a specific data type that tells Python how to process and store that data. <br>
 
