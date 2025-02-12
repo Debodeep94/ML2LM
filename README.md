@@ -6,16 +6,16 @@ Welcome to our channel, ML2LM. This repository will provide you the codes for th
     
 ### 1. Python Basics 
 #### 1.1 Data types and Operators. ([Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/data_types_and_operators.ipynb))
-        ``` What Are Data Types? <br>
+        ``` What Are Data Types? 
                 Data types define the kind of value a variable can hold in a programming language. In Python, every piece of data (like numbers, text or a collection of items) has a specific data type that tells Python how to process and store that data. <br>
 
-                Some examples: <br>
+                Some examples: 
                 Text like "Python" is a `str` (string).<br>
                 An integer like 7 is an `int` datatype while a decimal like 7.7 is a `float`. <br>
                 A value like `True` or `False` is a `bool` (boolean).<br>
                 <br>
 
                 #### Dynamic Typing in Python
-                One of Python's strengths is dynamic typing, which means you don’t need to declare the type of a variable explicitly like java or C++. Python automatically determines the type of a variable based on the value you assign to it.<br>
+                One of Python's strengths is dynamic typing, which means you don’t need to declare the type of a variable explicitly like java or C++. Python automatically determines the type of a variable based on the value you assign to it.
                 <br>
                 We can use the `type()` function to check the data type of a variable.```
