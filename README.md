@@ -19,3 +19,14 @@ Welcome to our channel, ML2LM. This repository will provide you the codes for th
                 One of Python's strengths is dynamic typing, which means you don’t need to declare the type of a variable explicitly like java or C++. Python automatically determines the type of a variable based on the value you assign to it.
                 <br>
                 We can use the `type()` function to check the data type of a variable.```
+#### 1.2 Data Structures ([Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/Data Structures.ipynb))
+    ```
+    .. A way to store data in python. We discuss 4 different types of data structures.
+
+        - Lists
+        
+        - Tuples
+        
+        - Sets
+        
+        - Dictionaries
