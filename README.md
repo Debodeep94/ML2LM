@@ -24,9 +24,21 @@ Welcome to our channel, ML2LM. This repository will provide you the codes for th
     .. A way to store data in python. We discuss 4 different types of data structures.
 
         - Lists
-        
+
+
         - Tuples
         
         - Sets
         
         - Dictionaries```
+
+
+#### Control flow ([Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/control_flow.ipynb))
+
+```
+Control Flow determines the order in which individual instructions, statements, or function calls are executed in a program. Without it, a program would just run line by line, top to bottom, without any decision-making or looping.
+
+Conditional Statements: The if-elif-else ladder
+
+Conditional statements let a program make decisions. If a condition is met, one block of code runs; otherwise, another block runs.
+```
