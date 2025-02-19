@@ -67,7 +67,7 @@ A **function** is a reusable block of code designed to perform a specific task. 
    - Once a function is written, it can be **used repeatedly** throughout the program or even in other projects, leading to reduced development time.
 --------------------------------------------------------------------------------------------------------------------
 #### Parameters and Argument
-
+```
 `Parameter:`A **parameter** is a **variable** in the function definition that accepts values when the function is called. It acts as a placeholder for the input that the function will use during execution.
 
 `Argument:` An **argument** is the actual value or data that is passed to the function when it is called. Arguments are assigned to the corresponding parameters.
@@ -84,3 +84,4 @@ my_function (1,2,3): 1,2,3 are called arguments
 | **Definition** | A variable in the function definition | A value passed to the function |
 | **When It Exists** | When defining a function | When calling a function |
 | **Example** | `def greet(name):` → `name` is a parameter | `greet("Alice")` → `"Alice"` is an argument |
+```
