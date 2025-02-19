@@ -51,7 +51,7 @@ Control Flow determines the order in which individual instructions, statements, 
 ```
 #### 1.4 Functions([Click here for Codes](https://github.com/Debodeep94/ML2LM/blob/main/python_basics/functions.ipynb))
 
-##### **Function: Definition and Advantages**
+##### **Definition and Advantages**
 ```
 A **function** is a reusable block of code designed to perform a specific task. Functions allow us to break down complex problems into smaller, manageable tasks.
 
@@ -65,9 +65,9 @@ A **function** is a reusable block of code designed to perform a specific task. 
 
 3. **Reusability**  
    - Once a function is written, it can be **used repeatedly** throughout the program or even in other projects, leading to reduced development time.
----
+--------------------------------------------------------------------------------------------------------------------
 ```
-###### Parameters and Argument
+##### Parameters and Argument
 ```
 `Parameter:`A **parameter** is a **variable** in the function definition that accepts values when the function is called. It acts as a placeholder for the input that the function will use during execution.
 
