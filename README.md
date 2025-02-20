@@ -1,6 +1,6 @@
 # Welcome to ML2LM
 ![Project Logo](images/logo.webp)
-This repository will provide you the codes for the topics that we discuss on our youtube channel. We will sequentially update this repository based on the topics that we cover. We will cover all the topics both in Bengali and English medium. 
+This repository will provide you the codes for the topics that we discuss on our youtube channel. We will sequentially update this repository based on the topics that we cover. We will cover all the topics both in Bengali and English mediums. 
 
 ## Topics.
     
